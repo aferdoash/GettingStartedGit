@@ -1,0 +1,15 @@
+mkdir ../Desktop/DataScience/Gittu
+cd Gittu
+git init
+mkdir datasciencecoursera
+cd datasciencecoursera
+git init
+touch HelloWorld.md
+git status
+git add HelloWorld.md
+git commit -m "Add HelloWorld.md"
+git status
+git remote add origin "https://github.com/aferdoash/datasciencecoursera"
+git remote -v
+git push origin master
+git pull origin master
