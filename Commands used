@@ -13,3 +13,4 @@ git remote add origin "https://github.com/aferdoash/datasciencecoursera"
 git remote -v
 git push origin master
 git pull origin master
+git clone https://github.com/aferdoash/ProgrammingAssignment.git
